@@ -1,0 +1,5 @@
+1. please use UserLoginGUI.java which is under src folder to run program.
+2. CSV files contain student, admin, superadmin account info to login
+3.Student account email: 1 passowrd :1
+4. admin account email: admin password:123
+5. superadmin account email:superadmin password:123
