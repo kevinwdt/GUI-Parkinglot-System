@@ -1,0 +1,10 @@
+Parking space 1,Occupied
+Parking space 2,Available
+Parking space 3,Available
+Parking space 4,Available
+12,cc,32
+user@example.com,2025-03-23,CreditCard,10.0
+user@example.com,2025-03-23,CreditCard,10.0
+user@example.com,2025-03-24,CreditCard,10.0
+1,2025-03-25,Mobile,5.0
+admin,2025-03-25,CreditCard,10.0

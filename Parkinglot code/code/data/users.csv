@@ -1,0 +1,5 @@
+type,name,email,password
+Student,1,1,1
+Admin,admin,admin,123
+Superadmin,superadmin,superadmin,123
+faculty,4,4,4
